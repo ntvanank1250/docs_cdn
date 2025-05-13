@@ -1,3 +1,4 @@
+# Chạy trong python manage.py shell
 import json
 import pytz
 from cdnapi.models import User
